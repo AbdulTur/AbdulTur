@@ -1,4 +1,4 @@
-# Hi there, I'm Abdulaziz Turonov 👋
+# Hi there, I'm Abdul Turonov 👋
 
 ## I'm a Computer Engineering Student, Developer, and Lifelong Learner!
 
