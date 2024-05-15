@@ -1,6 +1,6 @@
 # Hi there, I'm Abdul Turonov 👋
 
-## I'm a Computer Engineering Student, Developer, and Lifelong Learner!
+## I'm a Senior Computer Engineering Student, Developer, and Lifelong Learner!
 
 - 🔭 I’m currently working on a several software development projects!
 - 🌱 I’m currently learning everything about Web Development & Machine Learning 
