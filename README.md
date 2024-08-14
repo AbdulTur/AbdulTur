@@ -13,7 +13,7 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aturonov@mun.ca)](mailto:aturonov@mun.ca)
 
 ## 🔗 Websites
-[![Website2](https://img.shields.io/badge/-CarbonRepay-22D3FA?style=flat-square&logo=Website&logoColor=white&link=https://abdultur.github.io/CarbonRepay/)]([https://abdultur.github.io/CarbonRepay/](https://carbonrepay-bb68f998cf59.herokuapp.com/))
+[![Website2](https://img.shields.io/badge/-CarbonRepay-22D3FA?style=flat-square&logo=Website&logoColor=white&link=https://carbonrepay-bb68f998cf59.herokuapp.com/)](https://carbonrepay-bb68f998cf59.herokuapp.com/)
 [![Personal Website](https://img.shields.io/badge/-abdulturonov.ca-000000?style=flat-square&logo=Website&logoColor=white&link=https://abdulturonov.ca)](https://abdulturonov.ca)
 
 ## 🔧 Technologies & Tools
