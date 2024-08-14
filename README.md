@@ -13,8 +13,7 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aturonov@mun.ca)](mailto:aturonov@mun.ca)
 
 ## 🔗 Websites
-[![Website1](https://img.shields.io/badge/-OnshapeGuideGenerator-5522FA?style=flat-square&logo=Website&logoColor=white&link=https://www.onshapeguidegenerator.ca/)](https://www.onshapeguidegenerator.ca/)
-[![Website2](https://img.shields.io/badge/-CarbonRepay-22D3FA?style=flat-square&logo=Website&logoColor=white&link=https://abdultur.github.io/CarbonRepay/)](https://abdultur.github.io/CarbonRepay/)
+[![Website2](https://img.shields.io/badge/-CarbonRepay-22D3FA?style=flat-square&logo=Website&logoColor=white&link=https://abdultur.github.io/CarbonRepay/)]([https://abdultur.github.io/CarbonRepay/](https://carbonrepay-bb68f998cf59.herokuapp.com/))
 [![Personal Website](https://img.shields.io/badge/-abdulturonov.ca-000000?style=flat-square&logo=Website&logoColor=white&link=https://abdulturonov.ca)](https://abdulturonov.ca)
 
 ## 🔧 Technologies & Tools
@@ -49,10 +48,6 @@
 ![](https://img.shields.io/badge/Tools-Excel-informational?style=flat&logo=microsoftexcel&logoColor=white&color=2bbc8a)
 
 
-## 📈 GitHub Stats
-[![Abdulaziz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdulTur&show_icons=true&theme=radical)](https://github.com/AbdulTur)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulTur&layout=compact&theme=radical)](https://github.com/AbdulTur)
 
 
 
